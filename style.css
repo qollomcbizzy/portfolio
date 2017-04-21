@@ -1,0 +1,18 @@
+/*div for the header*/
+.headerdiv{
+  text-shadow: 2px 2px blue;
+  text-align: center;
+  font-size: 30px;
+  background-color: grey;
+  color:white;
+}
+.image{
+ width: 80%;
+ margin-left: 5%;
+ margin-right: 5%;
+ height: 300px;
+}
+a{
+ text-decoration: none;
+
+}
