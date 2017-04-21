@@ -47,7 +47,7 @@ body{
 #myfooter{
   clear: both;
   position: relative;
-  height:100px;
+  height:200px;
   margin-top: 80px;
   bottom: 0px;
   left: 0px;
@@ -57,4 +57,31 @@ body{
 }
 a{
  text-decoration: none;
+}
+h2{
+  color:blue;
+  font-size: 30px;
+  
+}
+/*divs in the footer*/
+  .li1{
+  padding-top: 20px;
+}
+.education{
+  width: 30%;
+  float:left;
+}
+.experience{
+  padding-top: 30px;
+  word-break: normal;
+  word-spacing: 2px;
+  float: left;
+  width:30%;
+}
+.profession{
+  padding-top: 30px;
+  word-break: normal;
+  word-spacing: 2px;
+  float: left;
+  width:30%;
 }
